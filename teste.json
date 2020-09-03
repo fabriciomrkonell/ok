@@ -6,7 +6,7 @@
       "id":"states.31",
       "geometry":{
         "type":"MultiPolygon",
-        "coordinates":[
+        "coordinates":[[
           [
             [
               -110.05,
@@ -29,7 +29,7 @@
               42.00
             ]
           ]
-        ]
+        ]]
       }
     }
   ]
